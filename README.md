@@ -1,2 +1,2 @@
 # RECETAS
-EJERCITANDO COMANDOS EN LINUX 
+ejercitando comandos en linux
